@@ -16,8 +16,8 @@
 ###### "Eager to learn" 
 ###### "Respectful of differing viewpoints and experiences"
 
-###### https://rosalind.info/users/kwon0990/
-###### https://mitochondriang.tistory.com/
+###### 📫 https://rosalind.info/users/kwon0990/
+###### 📫 https://mitochondriang.tistory.com/
 <!--
 **sunkyu490/sunkyu490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
