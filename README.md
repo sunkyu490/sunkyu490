@@ -4,8 +4,8 @@
 ## sunkyu490 : 
 
 #### 🔭 I’m currently working on ...
-  - Bioinformatics data
-  - Medical informatics data
+  - Bioinformatics Data
+  - Medical informatics Data
 
 #### 🌱currently learning ...
   - Machine Learning
