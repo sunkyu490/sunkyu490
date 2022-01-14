@@ -18,6 +18,8 @@
 
 ###### 📫 https://rosalind.info/users/kwon0990/
 ###### 📫 https://mitochondriang.tistory.com/
+
+<img src = "https://user-images.githubusercontent.com/84068159/149440406-b634489a-0c3e-43dd-ad5c-4f477dce4074.jpg" width = "200" height ="150"/>
 <!--
 **sunkyu490/sunkyu490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
