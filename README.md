@@ -7,7 +7,7 @@
   - Bioinformatics 
   - Medical informatics 
 
-#### 🌱currently learning ...
+#### 🌱Currently learning ...
   - Machine Learning
   - Deep Learning
   - Statistical Analysis
