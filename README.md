@@ -4,8 +4,8 @@
 ## BioKeystone : 
 
 #### 🔭 I’m currently working on ...
-  - Bioinformatics Data
-  - Medical informatics Data
+  - Bioinformatics 
+  - Medical informatics 
 
 #### 🌱currently learning ...
   - Machine Learning
