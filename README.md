@@ -8,6 +8,7 @@
   - Medical informatics 
 
 #### 🌱Currently learning ...
+  - Bioinformatics Engineering
   - Machine Learning
   - Deep Learning
   - Statistical Analysis
